@@ -6,7 +6,7 @@ const fs = require('fs');
 const FIREBASE_DB_URL = "https://ipl2020-46d2f.firebaseio.com/Prmovies.json";
 
 // Sirf ek hi link/path yahan dalein jise aapko scrape karna hai
-const TARGET_PATH = "genre/hollywood/"; 
+const TARGET_PATH = "genre/hollywood-dubbed/"; 
 
 // Yahan aap apna group name rakh sakte hain jo M3U playlist mein show hoga
 const GROUP_NAME = "✨ Hollywood movies ✨"; 
